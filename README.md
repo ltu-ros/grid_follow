@@ -3,7 +3,7 @@
 ![Example](img/course.png)
 
 
-**Your Task**: Beginning at one side of the course. Travel to the other without hitting any walls or crossing the blue tape.
+**Your Task**: Beginning at one side of the course. Travel to the other without hitting any walls or crossing the blue tape. You do not need to detect signs.
 
 
 **Details:**
@@ -13,9 +13,9 @@
   3. Add your code to the `gridCallback` function in `grid_follow.cpp`
 
 
-## Hints / Algorithm Design
+## Hints / Suggested Algorithm Design
 
-Below is an example algorithm that can be used to solve this task.
+Below is an example algorithm that can be used to solve this task. *Note that you do not have to solve the problem this way and may use any algorithm you like*
 
 ![algorithm](img/algorithm.png)
 
